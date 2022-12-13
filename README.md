@@ -84,8 +84,9 @@ Lane Line detection is a critical component for self driving cars and also for c
 
 ## 9) Sleep Detection
 
-<img width="1176" alt="1" src="https://user-images.githubusercontent.com/34747978/207137259-69aad106-7e51-4115-b0cb-1ba994068be5.png">
+Driver sleep detection is a car safety technology which helps to prevent accidents when the driver gets drowsy. Various studies have suggested that around 20% of road accidents are fatigue related. A sleep alarm is used in a vehicle for detecting the condition indicative of the onset of sleepiness of a driver and for alerting the driver. An eye blink sensor is used to keep track of the driver’s eyelid motion.
 
+<img width="1176" alt="1" src="https://user-images.githubusercontent.com/34747978/207137259-69aad106-7e51-4115-b0cb-1ba994068be5.png">
 <img width="1161" alt="2" src="https://user-images.githubusercontent.com/34747978/207137275-be169dd5-7cb1-4960-949c-3787037fc5b9.png">
 
 
