@@ -1,4 +1,4 @@
-# Basic Image-Video Processing Projects with OpenCV and MediaPipe
+# Image-Video Processing Projects with OpenCV and MediaPipe
 In this projects, I used MediaPipe and OpenCV python libraries to detect face and hand landmarks. I used a Holistic model from MediaPipe solutions to detect all the face and hand landmarks. Also saw how i can access different landmarks of the face and hands which can be used for different computer vision applications such as sign language detection, drowsiness detection, etc.
 (Mediapipe is a cross-platform library developed by Google that provides amazing ready-to-use ML solutions for computer vision tasks. OpenCV library in python is a computer vision library that is widely used for image analysis, image processing, detection, recognition, etc.)
 
