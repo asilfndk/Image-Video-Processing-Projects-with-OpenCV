@@ -75,9 +75,12 @@ MediaPipe Face Mesh is a solution that estimates 468 3D face landmarks in real-t
 ![first_frame](https://user-images.githubusercontent.com/34747978/207135035-d017e4c3-23a8-432a-bae4-f6d50af107df.png)
 <img width="217" alt="1" src="https://user-images.githubusercontent.com/34747978/207367695-1dd14cdf-3e57-4ff6-84f8-854d798606d9.png">
 
-
-
 ## 8) Road Line Detection
+
+Lane Line detection is a critical component for self driving cars and also for computer vision in general. This concept is used to describe the path for self-driving cars and to avoid the risk of getting in another lane.
+
+<img width="400" alt="1" src="https://user-images.githubusercontent.com/34747978/207369646-03e68f31-42af-45bd-ba64-749bfa8e508f.png">
+<img width="400" alt="2" src="https://user-images.githubusercontent.com/34747978/207369684-29ec2abe-6203-4cc1-9cc2-a404c7186887.png">
 
 ## 9) Sleep Detection
 
