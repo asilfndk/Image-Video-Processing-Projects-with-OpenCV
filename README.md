@@ -73,8 +73,9 @@ MediaPipe Face Mesh is a solution that estimates 468 3D face landmarks in real-t
 ## 7) Parking Space Counter
 
 ![first_frame](https://user-images.githubusercontent.com/34747978/207135035-d017e4c3-23a8-432a-bae4-f6d50af107df.png)
+<img width="217" alt="1" src="https://user-images.githubusercontent.com/34747978/207367695-1dd14cdf-3e57-4ff6-84f8-854d798606d9.png">
 
-https://user-images.githubusercontent.com/34747978/207135044-db6e9c4a-18ba-4466-917a-d6fa36acb8e7.mp4
+
 
 ## 8) Road Line Detection
 
